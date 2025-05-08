@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\simsh\\Desktop\\WSMB2024-Final-Training\\Session4\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD25E2C4-D666-4AB9-9B1F-BD0BDEAB55E2}|Sessio4Test\\Sessio4Test.csproj|c:\\users\\simsh\\desktop\\wsmb2024-final-training\\session4\\sessio4test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD25E2C4-D666-4AB9-9B1F-BD0BDEAB55E2}|Sessio4Test\\Sessio4Test.csproj|solutionrelative:sessio4test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DB7E946-2F53-4D7F-98A8-0907D201D73B}|Session4\\Session4.csproj|c:\\users\\user\\documents\\wsmb final\\wsmb2024-final-training\\session4\\session4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DB7E946-2F53-4D7F-98A8-0907D201D73B}|Session4\\Session4.csproj|solutionrelative:session4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB7E946-2F53-4D7F-98A8-0907D201D73B}|Session4\\Session4.csproj|c:\\users\\user\\documents\\wsmb final\\wsmb2024-final-training\\session4\\session4\\advancedsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DB7E946-2F53-4D7F-98A8-0907D201D73B}|Session4\\Session4.csproj|solutionrelative:session4\\advancedsearchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD25E2C4-D666-4AB9-9B1F-BD0BDEAB55E2}|Sessio4Test\\Session4Test.csproj|c:\\users\\user\\documents\\wsmb final\\wsmb2024-final-training\\session4\\sessio4test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD25E2C4-D666-4AB9-9B1F-BD0BDEAB55E2}|Sessio4Test\\Session4Test.csproj|solutionrelative:sessio4test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session4\\Session4\\Form1.cs",
+              "RelativeDocumentMoniker": "Session4\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session4\\Session4\\Form1.cs [Design]",
+              "RelativeToolTip": "Session4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:27:52.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdvancedSearchForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session4\\Session4\\AdvancedSearchForm.cs",
+              "RelativeDocumentMoniker": "Session4\\AdvancedSearchForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session4\\Session4\\AdvancedSearchForm.cs [Design]",
+              "RelativeToolTip": "Session4\\AdvancedSearchForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:27:49.565Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\simsh\\Desktop\\WSMB2024-Final-Training\\Session4\\Sessio4Test\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session4\\Sessio4Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Sessio4Test\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\simsh\\Desktop\\WSMB2024-Final-Training\\Session4\\Sessio4Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session4\\Sessio4Test\\UnitTest1.cs",
               "RelativeToolTip": "Sessio4Test\\UnitTest1.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T01:57:00.262Z",
               "EditorCaption": ""

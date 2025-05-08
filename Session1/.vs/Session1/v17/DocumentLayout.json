@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{9FC65195-D236-458D-82D7-F3C3482E9A65}|Session1\\Session1.csproj|solutionrelative:session1\\createaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D300625E-C92F-4C6A-9F4F-5F57C9EDDF8E}|Session1Tests\\Session1Tests.csproj|c:\\users\\user\\documents\\wsmb final\\wsmb2024-final-training\\session1\\session1tests\\resources\\createuseractiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FC65195-D236-458D-82D7-F3C3482E9A65}|Session1\\Session1.csproj|C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\session1\\createaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FC65195-D236-458D-82D7-F3C3482E9A65}|Session1\\Session1.csproj|solutionrelative:session1\\createaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FC65195-D236-458D-82D7-F3C3482E9A65}|Session1\\Session1.csproj|c:\\users\\user\\documents\\wsmb final\\wsmb2024-final-training\\session1\\session1\\employeemanagmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FC65195-D236-458D-82D7-F3C3482E9A65}|Session1\\Session1.csproj|solutionrelative:session1\\employeemanagmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D300625E-C92F-4C6A-9F4F-5F57C9EDDF8E}|Session1Tests\\Session1Tests.csproj|C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\session1tests\\resources\\createuseractiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D300625E-C92F-4C6A-9F4F-5F57C9EDDF8E}|Session1Tests\\Session1Tests.csproj|solutionrelative:session1tests\\resources\\createuseractiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FC65195-D236-458D-82D7-F3C3482E9A65}|Session1\\Session1.csproj|C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\session1\\resources\\createuseraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FC65195-D236-458D-82D7-F3C3482E9A65}|Session1\\Session1.csproj|solutionrelative:session1\\resources\\createuseraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D300625E-C92F-4C6A-9F4F-5F57C9EDDF8E}|Session1Tests\\Session1Tests.csproj|C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\session1tests\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D300625E-C92F-4C6A-9F4F-5F57C9EDDF8E}|Session1Tests\\Session1Tests.csproj|solutionrelative:session1tests\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FC65195-D236-458D-82D7-F3C3482E9A65}|Session1\\Session1.csproj|C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\session1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -38,32 +42,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1\\App.config",
-              "RelativeDocumentMoniker": "Session1\\App.config",
-              "ToolTip": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1\\App.config",
-              "RelativeToolTip": "Session1\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-25T01:41:35.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.Config",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1Tests\\App.Config",
-              "RelativeDocumentMoniker": "Session1Tests\\App.Config",
-              "ToolTip": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1Tests\\App.Config",
-              "RelativeToolTip": "Session1Tests\\App.Config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-25T01:41:22.823Z"
+              "DocumentIndex": 2,
+              "Title": "EmployeeManagmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1\\EmployeeManagmentForm.cs",
+              "RelativeDocumentMoniker": "Session1\\EmployeeManagmentForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1\\EmployeeManagmentForm.cs [Design]",
+              "RelativeToolTip": "Session1\\EmployeeManagmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:08:20.982Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CreateAccountForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1\\CreateAccountForm.cs",
+              "RelativeDocumentMoniker": "Session1\\CreateAccountForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1\\CreateAccountForm.cs [Design]",
+              "RelativeToolTip": "Session1\\CreateAccountForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T10:08:18.209Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CreateUserActionTests.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1Tests\\Resources\\CreateUserActionTests.cs",
               "RelativeDocumentMoniker": "Session1Tests\\Resources\\CreateUserActionTests.cs",
@@ -71,12 +74,11 @@
               "RelativeToolTip": "Session1Tests\\Resources\\CreateUserActionTests.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAcwBcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T01:28:08.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T01:28:08.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CreateUserAction.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1\\Resources\\CreateUserAction.cs",
               "RelativeDocumentMoniker": "Session1\\Resources\\CreateUserAction.cs",
@@ -84,8 +86,7 @@
               "RelativeToolTip": "Session1\\Resources\\CreateUserAction.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAjwDIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T01:16:03.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T01:16:03.873Z"
             },
             {
               "$type": "Document",
@@ -95,9 +96,22 @@
               "RelativeDocumentMoniker": "Session1\\CreateAccountForm.cs",
               "ToolTip": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1\\CreateAccountForm.cs",
               "RelativeToolTip": "Session1\\CreateAccountForm.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAvwE4AAAAOAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAnwE4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T01:15:21.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1\\App.config",
+              "RelativeDocumentMoniker": "Session1\\App.config",
+              "ToolTip": "C:\\Users\\USER\\Documents\\WSMB FINAL\\WSMB2024-Final-Training\\Session1\\Session1\\App.config",
+              "RelativeToolTip": "Session1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-25T01:41:35.239Z",
               "EditorCaption": ""
             }
           ]

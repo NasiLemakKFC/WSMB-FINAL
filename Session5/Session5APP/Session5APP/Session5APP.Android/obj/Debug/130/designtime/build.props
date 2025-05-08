@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638566329573770298
+_nugetassetstimestamp=638714988058420835
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\simsh\desktop\wsmb 2024 final training\session5\session5app\session5app\session5app.android\session5app.android.csproj
+projectfullpath=c:\users\user\documents\wsmb final\wsmb2024-final-training\session5\session5app\session5app\session5app.android\session5app.android.csproj
